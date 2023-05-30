@@ -11,6 +11,8 @@ export const NumberBuilder = () => {
     const onHandleReset = () => {
       setCounter(0)
       setNumbers("")
+        
+    
     }
     return (
       <div className="Main">

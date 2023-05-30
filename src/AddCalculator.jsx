@@ -8,7 +8,7 @@ export const AddCalculator = () => {
             <button>Add 2</button>
             <button>Add 3</button>
             <br></br>
-            Total: 
+            Total: counter
         </>
     )
 }
